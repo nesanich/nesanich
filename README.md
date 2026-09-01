@@ -1,0 +1,153 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Andrei+%F0%9F%91%8B;Junior+.NET+%2F+Backend+Developer;C%23+%C2%B7+ASP.NET+Core+%C2%B7+PostgreSQL+%C2%B7+React;Building+real-world+web+apps" alt="Typing SVG" />
+  <br/><br/>
+  <a href="mailto:crazyfox47@icloud.com"><img src="https://img.shields.io/badge/crazyfox47@icloud.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Georgia-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║  andrei@github  ~  $                                 ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  $ whoami                                            ║
+║    → junior .net developer                           ║
+║                                                      ║
+║  $ location                                          ║
+║    → Russia  ──▶  Georgia                            ║
+║                                                      ║
+║  $ stack                                             ║
+║    → C#  ·  ASP.NET Core  ·  PostgreSQL  ·  React   ║
+║                                                      ║
+║  $ status                                            ║
+║    → open to work  ✓                                 ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 👤 About Me
+
+I'm a **Junior .NET Developer** focused on backend development and building full-stack web applications.
+I enjoy writing clean, structured code and understanding how systems work under the hood.
+
+- 🎓 Graduation project — a **production-ready full-stack hotel booking system** with ML pricing
+- 🧠 Interested in **backend architecture**, **REST API design**, **databases** and **AI/ML integration**
+- 🔍 Looking for a **Junior .NET / Backend Developer** position
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  <strong>— Backend —</strong><br/><br/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <br/><br/><strong>— Database —</strong><br/><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <br/><br/><strong>— Frontend —</strong><br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <br/><br/><strong>— Tools —</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Hotel Booking Platform
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI_ML-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</div>
+
+<br/>
+
+> Graduation project — a production-ready, full-stack hotel booking system built from scratch.
+
+| Feature | Description |
+|---|---|
+| 🔗 **REST API** | ASP.NET Core + Dapper — hotels, rooms, bookings, reviews, services, uploads |
+| 🗄️ **Database** | PostgreSQL with migrations, multi-hotel schema and role-scoped queries |
+| 🤖 **ML Pricing** | FastAPI microservice — predicts dynamic price per date (`lead_time`, `occupancy_rate`, `is_weekend`, `pickup_rate`) |
+| 📅 **Booking Calendar** | Custom React calendar with ML prices per cell, blocked dates, range validation |
+| 🛡️ **Auth & Roles** | `User` · `Admin` · `SuperAdmin` — protected routes, header-based auth |
+| 🖼️ **Image Upload** | Drag & drop gallery, multipart endpoint, dynamic URL across network devices |
+| 📊 **Admin Panel** | Full CRUD for hotels, rooms, bookings, clients, services — search, sort, filter |
+| 📈 **Benchmark** | Python script measuring response times across all REST and ML endpoints |
+
+```
+React  →  ASP.NET Core  →  PostgreSQL
+                ↑
+          FastAPI (ML)
+```
+
+---
+
+### 📚 Book API
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</div>
+
+<br/>
+
+A focused backend project for practising REST API design and database interaction.
+
+- ✅ Full CRUD operations
+- ✅ Clean RESTful API structure
+- ✅ PostgreSQL integration
+- ✅ Swagger / OpenAPI docs
+
+---
+
+## 📈 Currently
+
+```
+[▓▓▓▓▓▓▓▓░░]  Learning backend architecture & design patterns
+[▓▓▓▓▓▓▓░░░]  Building and improving .NET projects
+[▓▓▓▓▓░░░░░]  Exploring AI/ML integration in web apps
+[▓▓▓▓▓▓▓▓▓▓]  Open to Junior .NET / Backend Developer roles ✓
+```
+
+---
+
+## 📫 Contact
+
+<div align="center">
+  <a href="mailto:crazyfox47@icloud.com">
+    <img src="https://img.shields.io/badge/crazyfox47@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/><br/>
+  <p>📍 Based in <strong>Georgia</strong></p>
+</div>
+
+---
+
+<div align="center">
+  <code>while (learning) { build(); improve(); repeat(); }</code>
+</div>
